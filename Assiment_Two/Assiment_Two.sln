@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assiment_Two", "Assiment_Two.csproj", "{957C81BD-9861-4F9A-9AD0-00032C18132C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{957C81BD-9861-4F9A-9AD0-00032C18132C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{957C81BD-9861-4F9A-9AD0-00032C18132C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{957C81BD-9861-4F9A-9AD0-00032C18132C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{957C81BD-9861-4F9A-9AD0-00032C18132C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28159622-F217-40A5-87DA-1FB411CDB33E}
+	EndGlobalSection
+EndGlobal

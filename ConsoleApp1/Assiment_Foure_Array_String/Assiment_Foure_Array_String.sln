@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assiment_Foure_Array_String", "Assiment_Foure_Array_String.csproj", "{460A6BCA-7600-474E-B319-A27EE7FCD26B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{460A6BCA-7600-474E-B319-A27EE7FCD26B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{460A6BCA-7600-474E-B319-A27EE7FCD26B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{460A6BCA-7600-474E-B319-A27EE7FCD26B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{460A6BCA-7600-474E-B319-A27EE7FCD26B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98009948-8341-46E9-B0CE-FFC38BA3AF38}
+	EndGlobalSection
+EndGlobal

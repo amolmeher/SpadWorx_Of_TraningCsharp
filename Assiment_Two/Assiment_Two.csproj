@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <StartupObject>Assiment_Two.Test_Lib_Add</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Demo_Library">
+      <HintPath>..\Demo_Library\bin\Debug\net5.0\Demo_Library.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
