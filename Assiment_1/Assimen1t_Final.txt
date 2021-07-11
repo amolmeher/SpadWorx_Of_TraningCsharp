@@ -1,0 +1,96 @@
+->   
+    ?	Generation of ASp.NET along with disadvantages
+
+		We recently announced the .NET Framework 4.5.2.
+                It including significant improvements in ASP.NET and Windows Forms
+                and other areas of the product. You can start incorporating 4.5.2 
+                features into your apps now.We released several key improvements to ASP.NET Web Forms.
+                These include support for ASP.NET Identity 2.0, 
+                Entity DataSource control for Entity Framework 6 and Roslyn support.
+                We have also added new features and scenarios to both .NET Native and the Next Generation JIT.
+               .NET Native now support x86, in addition to ARM and x64 apps.
+                The Next Generation JIT now supports Windows 7 and later for x64 apps.
+                Both of these technologies are a critical part of our .NET vNext roadmap.
+                Expect to hear more about both of them in the coming months.
+
+
+
+
+
+
+Q 1) ASP.Net  History
+      ->It was first released in January 2002 with version 1.0 of the
+		
+	MVC Version	Visual Studio	.NET Framework	Released Date	 Features
+
+	MVC 1.0  	VS2008	       .Net 3.5          13-Mar-2009	MVC architecture with webform engineRouting
+                                                                         HTML Helpers,Ajax Helpers,Auto binding
+
+	MVC 2.0   	VS 2008,	.Net 3.5/4.0	 10-Mar-2010     Area,Asynchronous controller,
+									Html helper methods with lambda expression
+                                                                         DataAnnotations attributes,
+								        Client side validation,Custom template,Scaffolding
+
+	MVC 3.0  	VS 2010	       .Net 4.0  	13-Jan-2011    Razor view engine,Global filters,Remote validation
+								      Dependency resolver for IoC,ViewBag
+
+
+Q2)   ?	Advantages of ASP.NET
+		) It allows for separation of concern
+		2)) Reduces coding time
+		3)Consists of some of out-of- the box features
+		4)World class toolbox
+		5)Delivers power and flexibility
+		6) Customizability and Extensibility
+		7)) Simplicity
+		9) Security
+
+
+Q3)   ?	Features of ASP.NET
+                ->
+		    Asynchronous via Async/Await. 
+                    Rich Development Environments. 
+                    Language Independent
+		    High Performance. Performance is always a critical feature for any of the applications or software. ...
+                    Cross-Platform and Container Support.
+		    Supports for Web Sockets. 
+                    Action Filters. 
+                    Globalization and Localization.
+
+
+Q4)   ?	Difference between ASP.NET and ASP.NET CORE
+
+              ASP.NET              	             ASP.NET CORE
+                 
+        Asp.Net Build for Windows	             Asp.Net Core Build for Windows, Mac and Linux
+	Asp.Net has a Good Performance  	      ASP.Net core has higher performances than ASP.Net 4x.
+       
+	 Support C#, VB and many other languages       Support only C#, F# language. VB support to added a short time and no support WCF,
+						      WPF and WF but support for WCF client libraries are available.
+                                                      and also support WCF, WPF and WF
+      
+
+    All major versions supported                    Support Core from Visual Studio 2015 update 3 and current version VS 2017.
+
+
+  We Need to re-compile after the code change         Core Browser refresh will compile and executed the code no need for re-compile.
+
+
+Q5
+   ?	Diference between ASP.NET and MVC
+ 
+             Asp.Net                              ASP.Net MVC
+      
+          ASP.Net Web From                               ASP.Net MVC
+                                              
+          ASP.Net Web from Follow a traditional
+           Event-Driven Develoment Model                   ASP.Net MVC Is A Lightweight and MVC Pattren base Model
+ 
+
+          ASP.Net Web Form has Sever controls             Asp.Net MVC Html helpers
+
+          ASp .net Web Form Follow Web From Systex       ASp .net Web Form Follow customizable From Syntex(Razor as Default)
+
+     
+
+
