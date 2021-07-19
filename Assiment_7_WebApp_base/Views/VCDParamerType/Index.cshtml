@@ -1,0 +1,45 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@*@using (Html.BeginForm("postUsingParameter", "VCDParamerType"))
+    {
+        <input type="text" name="fname" />
+        <br />
+        <input type="text" name="lname" />
+        <br />
+        <br />
+        <input type="submit" value="Submit">
+
+    } *@
+@*<h1>
+        Using Reuest
+    </h1>
+    <section>
+        @using (Html.BeginForm("postUsingParameter", "VCDParamerType"))
+        {
+            <input type="text" name="fname" />
+            <br />
+            <input type="text" name="lname" />
+            <br />
+            <br />
+            <input type="submit" value="Submit">
+
+        }
+    </section>*@
+<h1>
+    Using FromCollection
+</h1>
+<section>
+    @using (Html.BeginForm("PostFormCollectionx", "VCDParamerType"))
+    {
+        <input type="text" name="fname" />
+        <br />
+        <input type="text" name="lname" />
+        <br />
+        <br />
+        <input type="submit" value="Submit">
+
+    }
+</section>

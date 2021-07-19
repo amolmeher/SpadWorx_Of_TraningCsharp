@@ -3,6 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
+    <StartupObject>Collection_Assiment.SoredList_Add_Rremove_ele</StartupObject>
   </PropertyGroup>
 
 </Project>

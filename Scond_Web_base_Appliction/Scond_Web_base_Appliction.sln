@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scond_Web_base_Appliction", "Scond_Web_base_Appliction.csproj", "{C3A60F86-843E-432C-980D-B0EC8F2AEA8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3A60F86-843E-432C-980D-B0EC8F2AEA8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3A60F86-843E-432C-980D-B0EC8F2AEA8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3A60F86-843E-432C-980D-B0EC8F2AEA8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3A60F86-843E-432C-980D-B0EC8F2AEA8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65F2FF4A-B4F4-417B-A1FB-1461EAFDAE33}
+	EndGlobalSection
+EndGlobal

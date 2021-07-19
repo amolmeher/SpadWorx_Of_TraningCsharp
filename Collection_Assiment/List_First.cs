@@ -16,6 +16,9 @@ namespace Collection_Assiment
             names.Add("Ankit");
             names.Add("Peter");
             names.Add("Irfan");
+            names.Add(10);
+
+
 
             // Iterate list element using foreach loop  
             foreach (var name in names)
